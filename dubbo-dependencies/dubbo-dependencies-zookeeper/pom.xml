@@ -35,7 +35,7 @@
         <revision>3.2.6-SNAPSHOT</revision>
         <maven_flatten_version>1.5.0</maven_flatten_version>
         <curator_version>4.3.0</curator_version>
-        <zookeeper_version>3.4.14</zookeeper_version>
+        <zookeeper_version>3.8.4</zookeeper_version>
     </properties>
 
     <dependencies>

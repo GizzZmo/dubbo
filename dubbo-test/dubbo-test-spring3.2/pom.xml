@@ -29,7 +29,7 @@
 
     <properties>
         <skip_maven_deploy>true</skip_maven_deploy>
-        <spring_version>3.2.18.RELEASE</spring_version>
+        <spring_version>7.0.6</spring_version>
     </properties>
 
     <dependencyManagement>
